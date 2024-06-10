@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+
+.ItemImg{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+.item{
+    border: solid grey 2px;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.itemsCart{
+    color: gray;
+    display: flex;
+    justify-content: center;
+
+}
+/* .cartProducts{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.cartTotal{
+    font-size: 50px;
+    color: grey;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.confirm{
+    margin: 20px;
+}
+
+.look{
+    font-family: 'Montserrat', sans-serif;
+    margin: 60px;
+}

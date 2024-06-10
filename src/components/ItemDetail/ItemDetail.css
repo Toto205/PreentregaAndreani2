@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+.Info{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.detailItem{
+    font-family: 'Montserrat', sans-serif;
+}

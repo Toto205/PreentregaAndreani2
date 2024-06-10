@@ -1,0 +1,17 @@
+.itemCart{
+    border: solid grey 2px;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    width: 40%;
+    margin: 20px;
+
+
+}
+
+.cartInf{
+display: inline-block;
+justify-content: center;
+align-items: center;
+display: block;
+}

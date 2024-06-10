@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+.ItemImg{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+.CardItem{
+    border: solid grey 2px;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.OptionDetail{
+    text-decoration: none;
+    color: gray;
+    font-size: 30px;
+}

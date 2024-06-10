@@ -1,0 +1,20 @@
+.cartW{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+}
+.carrito{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    list-style: none;
+}
+
+.numberProducts{
+    color:red;
+    text-decoration:none;
+    border: 2px solid red;
+    border-radius: 50%;
+    list-style: none;
+    
+}
